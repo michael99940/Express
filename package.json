@@ -1,0 +1,19 @@
+{
+  "name": "reservation-calendar-proxy",
+  "description": "> Project description",
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=6.13.0"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "keywords": []
+}
